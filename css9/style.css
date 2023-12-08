@@ -173,7 +173,7 @@ h6,
 }
 
 .service-item.bg-light::after {
-    border-color: transparent transparent #FFFFFF transparent;
+    border-color: transparent transparent #ff1e16 transparent;
 }
 
 .service-item:hover::after {
@@ -350,3 +350,5 @@ h6,
 .footer .copyright a:hover {
     color: var(--dark);
 }
+
+.bg-light{background-color:#ffffff !important}
